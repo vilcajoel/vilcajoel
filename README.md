@@ -6,15 +6,15 @@
 ---
 <img align="right" src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/octocat-anime.gif"/>
 
-## Hi everyone <img src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/wave.gif" width="27px">,
-¡Hola! soy Joel Vilca Tarazona, aspirante a Machine Learning Engineer residente en Lima, Perú.Actualmente estoy cursando la carrera de Ingeniería de Software en la [Universidad Nacional Mayor de San Marcos](http://www.unmsm.edu.pe/).  
+## Hola a todos <img src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/wave.gif" width="27px">,
+¡Hola! soy Joel Vilca Tarazona, aspirante a Machine Learning Engineer residente en Lima, Perú. Actualmente estoy cursando la carrera de Ingeniería de Software en la [Universidad Nacional Mayor de San Marcos](http://www.unmsm.edu.pe/).  
 
 
  💬 Pregúntame sobre cualquier cosa [aquí](https://github.com/joalvita/joalvita/issues)
 
 
  ## ⚡ Tecnologías <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <img height="40" src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/python.svg"> &nbsp; &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/py.svg"> &nbsp; &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/R.svg"> &nbsp; &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/java.svg"> &nbsp; &nbsp; 
   <img height="40" src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/git.svg">
