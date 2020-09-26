@@ -23,6 +23,6 @@
 [![Joel Vilca github stats](https://github-readme-stats.vercel.app/api?username=joalvita&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=joalvita.joalvita&title=Profile%20views) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=joalvita.joalvita&title=Visitas%20perfil) 
 
  <img src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/developer.gif" width="30px"> Observa mi  [website](https://www.linkedin.com/in/joalvita/) para mas detalles. 
