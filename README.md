@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@joalvita-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joalvita)](https://twitter.com/joalvita) [![Linkedin Badge](https://img.shields.io/badge/-joalvita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joalvita/)](https://www.linkedin.com/in/joalvita/)
 [![GitHub Badge](https://img.shields.io/badge/-@joalvita-%23181717?style=flat-square&logo=github)](https://github.com/joalvita)
 [![Gmail Badge](https://img.shields.io/badge/-connectwithjoel.vilca1@unmsm.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithjoel.vilca1@unmsm.edu.pe)](mailto:connectwithjoel.vilca1@unmsm.edu.pe)
-[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adarshaacharya.com.np&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](http://joalvita.com)
+[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=joalvita.com.pe&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](http://joalvita.com)
 ---
 <img align="right" src="https://raw.githubusercontent.com/joalvita/joalvita/master/assets/octocat-anime.gif"/>
 
