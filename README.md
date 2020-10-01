@@ -25,4 +25,4 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vilcajoal.vilcajoal&title=Visitas%20perfil) 
 
- <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/developer.gif" width="30px"> Observa mi  [website](https://www.linkedin.com/in/vilcajoal/) para mas detalles. 
+ <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/developer.gif" width="30px"> Observa mi  [website](https://vilcajoal.hashnode.dev/) para mas detalles. 
