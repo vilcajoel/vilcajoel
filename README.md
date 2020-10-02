@@ -19,6 +19,7 @@
 <br/> 
 
 [![Joel Vilca github stats](https://github-readme-stats.vercel.app/api?username=vilcajoal&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilcajoal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vilcajoal.vilcajoal&title=Visitas%20perfil) 
