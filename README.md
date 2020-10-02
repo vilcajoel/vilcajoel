@@ -9,9 +9,7 @@
 ## Hola a todos <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/wave.gif" width="27px">,
 ¡Hola! soy Joel Vilca Tarazona, aspirante a Machine Learning Engineer residente en Lima, Perú. Actualmente estoy cursando la carrera de Ingeniería de Software en la [Universidad Nacional Mayor de San Marcos](http://www.unmsm.edu.pe/).  
 
-
- 💬 Pregúntame sobre cualquier cosa [aquí](https://github.com/vilcajoal/vilcajoal/issues)
-
+ <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/developer.gif" width="30px"> Estoy documentando mis aprendizajes en mi [Blog](https://vilcajoal.hashnode.dev/).
 
  ## ⚡ Tecnologías <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   <img height="40" src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/py.svg"> &nbsp; &nbsp;
@@ -25,4 +23,4 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vilcajoal.vilcajoal&title=Visitas%20perfil) 
 
- <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/developer.gif" width="30px"> Observa mi  [website](https://vilcajoal.hashnode.dev/) para mas detalles. 
+ 💬 Pregúntame sobre cualquier cosa [aquí](https://github.com/vilcajoal/vilcajoal/issues)
