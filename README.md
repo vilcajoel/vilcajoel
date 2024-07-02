@@ -9,7 +9,7 @@
 ## Hola a todos <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/wave.gif" width="27px">,
 Soy un Ingeniero de Datos y Machine Learning con experiencia en flujos de datos (Batch y Streaming) en Google Cloud Platform (GCP) y Amazon Web Services (AWS). Líder en proyectos en equipo, con adaptabilidad a metodologías ágiles. Enfocado en optimizar procesos, migrar flujos On-premise a Cloud, y generar valor a través del análisis de datos y visualización. Habilidades en el desarrollo de modelos de machine learning para impulsar la innovación. Comprometido en aportar soluciones de alta calidad y fomentar la innovación como motor de éxito.  
 
- <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/developer.gif" width="30px"> Estoy documentando mis aprendizajes en mi [Blog](https://vilcajoal.hashnode.dev/).
+ <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/developer.gif" width="30px"> Estoy documentando mis conocimientos en mi [Linkedin](https://www.linkedin.com/in/joelvilca/).
 
  ## ⚡ Tecnologías <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   <img height="40" src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/py.svg"> &nbsp; &nbsp;
