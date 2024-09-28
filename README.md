@@ -18,7 +18,6 @@ Soy un Ingeniero de Datos y Machine Learning con experiencia en flujos de datos 
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Cloud-Scheduler.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Identity-And-Access-Management.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Dataflow.svg"> &nbsp; &nbsp;
-<img height="40" src="https://icon.icepanel.io/GCP/svg/Data-Fusion.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Dataprep.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Datastream.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Workflows.svg"> &nbsp; &nbsp;
