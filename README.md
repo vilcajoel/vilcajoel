@@ -16,16 +16,12 @@ Soy un Ingeniero de Datos y Machine Learning con experiencia en flujos de datos 
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Cloud-Storage.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Cloud-Scheduler.svg"> &nbsp; &nbsp;
-<img height="40" src="https://icon.icepanel.io/GCP/svg/Identity-and-Access-Management.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Identity-And-Access-Management.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Dataflow.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Data-Fusion.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Dataprep.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Datastream.svg"> &nbsp; &nbsp;
 <img height="40" src="https://icon.icepanel.io/GCP/svg/Workflows.svg"> &nbsp; &nbsp;
-<img height="40" src="https://icon.icepanel.io/Custom/svg/Git.svg"> &nbsp; &nbsp;
-<img height="40" src="https://icon.icepanel.io/Custom/svg/Python.svg"> &nbsp; &nbsp;
-<img height="40" src="https://icon.icepanel.io/Custom/svg/SQLite.svg"> &nbsp; &nbsp;
-<img height="40" src="https://icon.icepanel.io/GCP/svg/Dataform.svg"> &nbsp; &nbsp;
 <br/>
 
 
