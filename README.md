@@ -1,4 +1,4 @@
-# [Joel Alberto Vilca Tarazona](https://www.linkedin.com/in/joelvilca/) 👨‍💻
+# [Joel Vilca](https://www.linkedin.com/in/joelvilca/) 👨‍💻
 [![Linkedin Badge](https://img.shields.io/badge/-vilcajoal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilcajoal/)](https://www.linkedin.com/in/vilcajoal/)
 [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=vilcajoal.com.pe&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](https://medium.com/@joelvilcatarazona)
 ---
