@@ -11,21 +11,21 @@ Soy un Ingeniero de Datos y Machine Learning con experiencia en flujos de datos 
 
 ## ⚡ Tecnologías y Herramientas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/googlecloudfunctions/googlecloudfunctions-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_cloudsql/google_cloudsql-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/googlecloudstorage/googlecloudstorage-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_cloudscheduler/google_cloudscheduler-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_iam/google_iam-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_dataflow/google_dataflow-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_datafusion/google_datafusion-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_dataprep/google_dataprep-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_datastream/google_datastream-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/googlecloudworkflow/googlecloudworkflow-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"> &nbsp; &nbsp;
-<img height="40" src="https://www.vectorlogo.zone/logos/google_dataform/google_dataform-icon.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/BigQuery.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Cloud-Storage.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Cloud-Scheduler.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Identity-and-Access-Management.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Dataflow.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Data-Fusion.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Dataprep.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Datastream.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Workflows.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/Custom/svg/Git.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/Custom/svg/Python.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/Custom/svg/SQLite.svg"> &nbsp; &nbsp;
+<img height="40" src="https://icon.icepanel.io/GCP/svg/Dataform.svg"> &nbsp; &nbsp;
 <br/>
 
 
