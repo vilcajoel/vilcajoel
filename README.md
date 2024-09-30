@@ -24,7 +24,7 @@ Soy un Ingeniero de Datos y Machine Learning con experiencia en flujos de datos 
 <br/>
 
 
-[![Joel Vilca github stats](https://github-readme-stats.vercel.app/api?username=vilcajoel&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Joel Vilca github stats](https://github-readme-stats.vercel.app/api?username=vilcajoel&show_icons=true&title_color=EA4335&text_color=4285F4&icon_color=34A853&bg_color=FFFFFF&ring_color=FBBC04)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
